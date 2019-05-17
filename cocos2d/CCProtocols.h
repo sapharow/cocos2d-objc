@@ -26,7 +26,7 @@
 
 #import "ccMacros.h"
 #import "ccTypes.h"
-#import "CCColor.h"
+#import "Support/CCColor.h"
 
 
 #if __CC_PLATFORM_IOS

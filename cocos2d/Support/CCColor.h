@@ -23,8 +23,8 @@
  *
  */
 
-#import "ccMacros.h"
-#import "ccTypes.h"
+#import "../ccMacros.h"
+#import "../ccTypes.h"
 
 
 #if __CC_PLATFORM_IOS

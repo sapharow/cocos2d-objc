@@ -33,7 +33,7 @@
 #import "Platforms/CCGL.h"
 #import "CCResponderManager.h"
 #import "CCRenderer.h"
-#import "CCDirectorView.h"
+#import "Platforms/CCDirectorView.h"
 
 /**
  Possible OpenGL projections used by CCDirector.
